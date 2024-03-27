@@ -31,6 +31,7 @@ The sample data for this presentation has been chosen based on the following cri
 
 ## Technical Technique Demonstration
 The presentation will include:
+
 🐾  Understanding the nature of null values in datasets
 
 🐾 Identifying null values within a dataset
