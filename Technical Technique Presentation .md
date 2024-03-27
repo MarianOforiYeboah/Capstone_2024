@@ -40,9 +40,17 @@ The presentation will include:
 - Improved decision-making based on cleaner data.
 
 ## Implementation Plan
-- Timeline for the preparation of the presentation
-- Resources required (software, hardware, etc.)
-- Practice sessions and dry runs
+Preparation for the presentation is scheduled as follows:
+
+### Timeline
+- **Initial Phase:** Research and data preparation (Weeks 1-2).
+- **Development Phase:** Developing the presentation content (Week 3).
+- **Final Phase:** Rehearsals and refinement of the presentation flow. (Week 4).
+
+### Resources
+- Software: Python, Pandas library, Jupyter Notebooks.
+- Hardware: Personal computer with adequate processing power.
+
 
 ## Conclusion
 - Summary of what will be achieved with the presentation
