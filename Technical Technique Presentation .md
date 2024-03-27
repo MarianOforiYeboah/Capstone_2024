@@ -25,8 +25,8 @@ The sample data for this presentation has been chosen based on the following cri
 - Variety in data types and structures.
 - Null values are present to demonstrate cleaning techniques.
 ## Source of data
-- Best in Show (data about dogs)- Kaggle datasets from [https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs] :dog:
-- The Best in Show dataset, sourced from Kaggle, provides comprehensive information about various dog breeds, their characteristics, their Genetic diseases, and Life spans. The original dataset set has 69 columns, but it has been narrowed down to 29 columns for this presentation. It has a lot of null values, which is perfect for this presentation illustration.
+:dog: Best in Show (data about dogs)- Kaggle datasets from [https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs] 
+:dog: The Best in Show dataset, sourced from Kaggle, provides comprehensive information about various dog breeds, their characteristics, their Genetic diseases, and Life spans. The original dataset set has 69 columns, but it has been narrowed down to 29 columns for this presentation. It has a lot of null values, which is perfect for this presentation illustration.
 
 ## Technical Technique Demonstration
 The presentation will include:
