@@ -32,8 +32,11 @@ The sample data for this presentation has been chosen based on the following cri
 ## Technical Technique Demonstration
 The presentation will include:
 🐾  Understanding the nature of null values in datasets
+
 🐾 Identifying null values within a dataset
+
 🐾 Step-by-step guidance on identifying and handling nulls in Pandas
+
 🐾 Steps Applying various techniques to handle nulls, such as removal, imputation, and analysis impacts.
 
 ### Expected Outcomes
@@ -71,7 +74,4 @@ Pandas. (2024) Working with missing data. Retrieved from:
 - Data Types and Missing Values: https://www.kaggle.com/code/residentmario/data-types-and-missing-values
 - How to Handle Missing Data with Python:https://machinelearningmastery.com/handle-missing-data-python/
 
-- Item 1 🐾
-- Item 2 🐾
-- Item 3 🐾
 
