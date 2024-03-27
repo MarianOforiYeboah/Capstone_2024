@@ -29,9 +29,15 @@ The sample data for this presentation has been chosen based on the following cri
 - The Best in Show dataset, sourced from Kaggle, provides comprehensive information about various dog breeds, their characteristics, their Genetic diseases, and Life spans. The original dataset set has 69 columns, but it has been narrowed down to 29 columns for this presentation. It has a lot of null values, which is perfect for this presentation illustration.
 
 ## Technical Technique Demonstration
-- Description of the technical technique
-- Steps for applying the technique to the sample data
-- Expected outcomes and benefits
+The presentation will include:
+- Understanding the nature of null values in datasets
+- Identifying null values within a dataset
+- Step-by-step guidance on identifying and handling nulls in Pandas
+- Steps Applying various techniques to handle nulls, such as removal, imputation, and analysis impacts.
+
+### Expected Outcomes
+- Enhanced data quality and reliability.
+- Improved decision-making based on cleaner data.
 
 ## Implementation Plan
 - Timeline for the preparation of the presentation
