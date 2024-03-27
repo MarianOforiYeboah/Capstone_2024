@@ -15,7 +15,7 @@ Prioritizing data quality is essential when performing ETL tasks. Incomplete dat
 
 ## Presentation Candidate
 **Name:** Marian Ofori Yeboah
-"I have a background in Business Administration and am currently studying Business Intelligence and Analytics at NSCC. My goal is to gain the knowledge and skills needed to read and interpret an organization's existing data and learn how to migrate existing data to databases effectively."
+- I have a background in Business Administration and am currently studying Business Intelligence and Analytics at NSCC.
 - Relevant experience and expertise
 
 ## Sample Data Selection
