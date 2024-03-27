@@ -68,6 +68,6 @@ Pandas. (2024) Working with missing data. Retrieved from:
  ### For further exploration of the topics discussed in this presentation, please refer to the following resources:
 - Pandas Documentation: https://pandas.pydata.org/docs/user_guide/missing_data.html
 - Data Types and Missing Values: https://www.kaggle.com/code/residentmario/data-types-and-missing-values
-- Guide to Handling Missing Data in Python
+- How to Handle Missing Data with Python:https://machinelearningmastery.com/handle-missing-data-python/
 
 
