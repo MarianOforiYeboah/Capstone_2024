@@ -25,9 +25,9 @@ The sample data for this presentation has been chosen based on the following cri
 - Variety in data types and structures.
 - Null values are present to demonstrate cleaning techniques.
 ## Source of data
-:dog: Best in Show (data about dogs)- Kaggle datasets from [https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs] 
+ 🐾 Best in Show (data about dogs :dog:)- Kaggle datasets from [https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs] 
 
-:dog: The Best in Show dataset, sourced from Kaggle, provides comprehensive information about various dog breeds, their characteristics, Genetic diseases, and Life spans. The original dataset set has 69 columns, but it has been narrowed down to 29 columns for this presentation. It has many null values, which is perfect for this presentation illustration.
+The Best in Show dataset, sourced from Kaggle, provides comprehensive information about various dog breeds, their characteristics, Genetic diseases, and Life spans. The original dataset set has 69 columns, but it has been narrowed down to 29 columns for this presentation. It has many null values, which is perfect for this presentation illustration.
 
 ## Technical Technique Demonstration
 The presentation will include:
@@ -41,7 +41,9 @@ The presentation will include:
 🐾 Steps Applying various techniques to handle nulls, such as removal, imputation, and analysis impacts.
 
 ### Expected Outcomes
-🐾 Enhanced data quality and reliability.
+
+🐾 Enhanced data quality and reliability
+
 🐾 Improved decision-making based on cleaner data.
 
 ## Implementation Plan
@@ -74,8 +76,10 @@ DataCamp. (2023, January) Top Techniques to Handle Missing Values Every Data Sci
 Pandas. (2024) Working with missing data. Retrieved from:
           https://pandas.pydata.org/docs/user_guide/missing_data.html
  ### For further exploration of the topics discussed in this presentation, please refer to the following resources:
-- Pandas Documentation: https://pandas.pydata.org/docs/user_guide/missing_data.html
-- Data Types and Missing Values: https://www.kaggle.com/code/residentmario/data-types-and-missing-values
-- How to Handle Missing Data with Python:https://machinelearningmastery.com/handle-missing-data-python/
+🐾 Pandas Documentation: https://pandas.pydata.org/docs/user_guide/missing_data.html
+
+🐾 Data Types and Missing Values: https://www.kaggle.com/code/residentmario/data-types-and-missing-values
+
+🐾 How to Handle Missing Data with Python:https://machinelearningmastery.com/handle-missing-data-python/
 
 
