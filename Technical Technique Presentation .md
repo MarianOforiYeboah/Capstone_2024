@@ -3,7 +3,7 @@
 ## Introduction
 The presentation will cover the significance of data cleaning techniques, specifically handling null values in datasets using Pandas, a powerful Python data manipulation tool.
 Null values are common in data sets and can significantly impact data analysis outcomes if improperly managed.
-Effective handling of null values in ETL processes is crucial for maintaining data quality and integrity. These values can indicate errors in data collection or transfer, affecting data quality, consistency, business decisions, and data integrity. Standardizing how nulls are handled ensures consistency across the ETL pipeline, preventing skews in results and ensuring accurate reporting and analysis.
+Effective handling of null values in ETL processes is crucial for maintaining data quality and integrity. These values can indicate errors in data collection or transfer, affecting data quality, consistency, business decisions, and integrity. Standardizing how nulls are handled ensures consistency across the ETL pipeline, prevents skews in results, and ensures accurate reporting and analysis.
 
 ## Objectives of the presentation
 - To provide a comprehensive understanding of null value management in Pandas.
@@ -19,8 +19,13 @@ Prioritizing data quality is essential when performing ETL tasks. Incomplete dat
 -  I have 5 years of experience working as a Cost Control Analyst. I possess knowledge in Database design, Reporting, Analysis, and Structured Query Language
 
 ## Sample Data Selection
-- Criteria for selecting sample data
-- Sources of sample data
+The data sample chosen for presentation is diverse, reflecting typical ETL scenarios and including null values.
+The sample data for this presentation has been chosen based on the following criteria:
+- Relevance to common ETL scenarios.
+- Variety in data types and structures.
+- Null values are present to demonstrate cleaning techniques.
+## Source of data
+- Best in Show (data about dogs)- Kaggle datasets from [https://www.kaggle.com/datasets/paultimothymooney/best-in-show-data-about-dogs].
 - Relevance of the data to the demonstration
 
 ## Technical Technique Demonstration
