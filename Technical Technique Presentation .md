@@ -1,4 +1,4 @@
-#  Technical Technique Presentation on Handling Nulls in Pandas
+🐼 #  Technical Technique Presentation on Handling Nulls in Pandas
 
 ## Introduction
 The presentation will cover the significance of data cleaning techniques, specifically handling null values in datasets using Pandas, a powerful Python data manipulation tool.
