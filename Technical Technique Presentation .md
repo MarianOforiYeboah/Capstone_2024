@@ -16,7 +16,7 @@ Prioritizing data quality is essential when performing ETL tasks. Incomplete dat
 ## Presentation Candidate
 **Name:** Marian Ofori Yeboah
 - Background in Business Administration, and currently studying Business Intelligence and Analytics at NSCC.
--I have 5 years of experience working as a Cost Control Analyst. I possess knowledge in database design, reporting, data analysis
+-  I have 5 years of experience working as a Cost Control Analyst. I possess knowledge in Database design, Reporting, Analysis, and Structured Query Language
 
 ## Sample Data Selection
 - Criteria for selecting sample data
