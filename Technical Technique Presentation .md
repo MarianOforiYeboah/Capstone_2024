@@ -14,7 +14,8 @@ Effective handling of null values in ETL processes is crucial for maintaining da
 Prioritizing data quality is essential when performing ETL tasks. Incomplete datasets can cause data inconsistency, poor quality, and flawed business decisions. Identifying and addressing null values is critical for accurate reporting and analysis. Standardizing null value treatment across different systems maintains data consistency and integrity. This presentation will focus on null value treatment in Pandas, a crucial aspect of data preprocessing.
 
 ## Presentation Candidate
--**Name:** [Marian Ofori Yeboah]
+**Name:** Marian Ofori Yeboah
+"I have a background in Business Administration and am currently studying Business Intelligence and Analytics at NSCC. My goal is to gain the knowledge and skills needed to read and interpret an organization's existing data and learn how to migrate existing data to databases effectively."
 - Relevant experience and expertise
 
 ## Sample Data Selection
