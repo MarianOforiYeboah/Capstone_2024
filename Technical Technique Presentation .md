@@ -53,9 +53,18 @@ Preparation for the presentation is scheduled as follows:
 
 
 ## Conclusion
-- Summary of what will be achieved with the presentation
-- Call to action for the audience
+This presentation aims to equip the audience with actionable knowledge on improving data quality in their ETL processes by effectively addressing null values in their datasets. I encourage all participants to engage with the content and apply these techniques in their projects.
+
 
 ## Appendices
-- References to technical literature
+
+### References to technical literature
+DataCamp. (2023, January) Top Techniques to Handle Missing Values Every Data Scientist Should Know. Retrieved from:
+          [(https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)]
+
+ For further exploration of the topics discussed in this presentation, please refer to the following resources:
+- Pandas Documentation: https://pandas.pydata.org/docs/user_guide/missing_data.html
+- Data Types and Missing Values: https://www.kaggle.com/code/residentmario/data-types-and-missing-values
+- Guide to Handling Missing Data in Python
+
 - Links to resources for further reading
