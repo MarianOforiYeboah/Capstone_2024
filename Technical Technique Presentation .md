@@ -48,8 +48,11 @@ The presentation will include:
 Preparation for the presentation is scheduled as follows:
 
 ### Timeline
+
 🐾 **Initial Phase:** Research and data preparation (Weeks 1-2).
+
 🐾 **Development Phase:** Developing the presentation content (Week 3).
+
 🐾 **Final Phase:** Rehearsals and refinement of the presentation flow. (Week 4).
 
 ### Resources
