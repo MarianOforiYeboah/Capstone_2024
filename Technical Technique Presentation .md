@@ -8,9 +8,11 @@ Null values are common in data sets and can significantly impact data analysis o
 Effective handling of null values in ETL processes is crucial for maintaining data quality and integrity. These values can indicate errors in data collection or transfer, affecting data quality, consistency, business decisions, and integrity. Standardizing how nulls are handled ensures consistency across the ETL pipeline, prevents skews in results, and ensures accurate reporting and analysis.
 
 ## 🐼 Objectives of the presentation
-- To provide a comprehensive understanding of null value management in Pandas.
-- To demonstrate effective techniques for handling nulls in Pandas.
-- To provide insights into improving data integrity for ETL processes.
+🐾 To provide a comprehensive understanding of null value management in Pandas.
+
+🐾 To demonstrate effective techniques for handling nulls in Pandas.
+
+🐾 To provide insights into improving data integrity for ETL processes.
 
 ## 🐼 Background
 Prioritizing data quality is essential when performing ETL tasks. Incomplete datasets can cause data inconsistency, poor quality, and flawed business decisions. Identifying and addressing null values is critical for accurate reporting and analysis. Standardizing null value treatment across different systems maintains data consistency and integrity. This presentation will focus on null value treatment in Pandas, a crucial aspect of data preprocessing.
