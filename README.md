@@ -3,5 +3,9 @@ This repository exclusively contains the documentation and resources for my Tech
 ![image](https://github.com/MarianOforiYeboah/Capstone_2024/assets/149170814/053e0605-aabd-47d4-a23e-bf613515168e)
 
 
+</div>
+	<h1><img src="images/Thinking panda icon.png" width="40" /> Why do i have nulls in my dataset? <img src="images/Thinking panda icon.png" width="40" /></h1>
+</div>
+<br>
 
-### What do I do when my dataset has null values ? ![image](https://github.com/MarianOforiYeboah/Capstone_2024-Technical-Presentation-/blob/main/Images/thinking_Pandas.png)
+
