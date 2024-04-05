@@ -4,7 +4,7 @@ This repository exclusively contains the documentation and resources for my Tech
 
 
 </div>
-	<h1><img src="images/Thinking panda icon.png" width="40" /> Why do i have nulls in my dataset? <img src="images/Thinking panda icon.png" width="40" /></h1>
+	<h1><img src="img/Thinking Panda icon.png" width="40" /> Why do i have nulls in my dataset? <img src="img/Thinking Panda icon.png" width="40" /></h1>
 </div>
 <br>
 
