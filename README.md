@@ -16,11 +16,12 @@ To work with null values, you must first identify them. Pandas offers two functi
 🐾  isnull(): This function returns a DataFrame or Series that indicates whether each value is null
 
 🐾  notnull(): This function is the opposite of isnull(). It returns True for non-null values
-  <br><br>
-<strong>Note:</strong> Here is an example of using is.null() to detect nulls
+<br><br>
+<h3><img src="Img/clipboard.png" width="40" >  Here is an example of using `isnull()` to detect nulls</h3>
 <br> You can edit based on your data frame to match. 
+
 ```python
-  import pandas as pd
+import pandas as pd
 
 # Sample DataFrame
 df = pd.DataFrame({'categories': [1, 2, None, 4]})
