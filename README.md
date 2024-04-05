@@ -10,7 +10,7 @@ This repository exclusively contains the documentation and resources for my Tech
 
 Null values typically indicate missing or unknown data. They can occur during data collection, transfer, or due to transformations applied to the data. It’s essential to handle nulls appropriately during data analysis to avoid errors or misleading results
 
-## Detection of Null Values
+## 🐼 Detection of Null Values
 To work with null values, you must first identify them. Pandas offers two functions for this purpose:
 
 🐾  isnull(): This function returns a DataFrame or Series that indicates whether each value is null
@@ -30,5 +30,5 @@ nulls = df.isnull()
 print(nulls)
 ```
 
-##  Ways of handling nulls in pandas
+## 🐼 Ways of handling nulls in pandas
 Dealing with null values is a frequent task when working with data in Pandas. Various methods can be used to handle nulls, including dropping them, replacing null values, and interpolating. In this context, we'll discuss two  ways to handle nulls: dropping and replacing.
