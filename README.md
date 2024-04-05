@@ -4,4 +4,4 @@ This repository exclusively contains the documentation and resources for my Tech
 
 
 
-### What do I do when my dataset has null values ?
+### What do I do when my dataset has null values ? ![image](https://github.com/MarianOforiYeboah/Capstone_2024-Technical-Presentation-/blob/main/Images/thinking_Pandas.png)
