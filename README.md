@@ -4,7 +4,7 @@ This repository exclusively contains the documentation and resources for my Tech
 
 
 <div>
-	<h1><img src="img/question2.png" width="40" /> Why do datasets have nulls?</h1>
+	<h1><img src="Img/thinking.png" width="40" /> Why do datasets have nulls?</h1>
 </div>
 <br>
 
