@@ -36,3 +36,5 @@ print(nulls)
 Dealing with null values is a frequent task when working with data in Pandas. Various methods can be used to handle nulls, including dropping them, replacing null values, and interpolating. In this context, we'll discuss two  ways to handle nulls: dropping and replacing.
 
 The video below walks you through a step-by-step procedure on handling nulls in these two different ways using pandas
+Right click on the video preview and select "Open link in new tab"  
+[<img src="" width="600"  /> ](https://youtu.be/5XZRbTd1Eww)
